@@ -48,7 +48,7 @@ YouCam Perfect iOS
 
 - [U messenger](https://u.cyberlink.com/products/umessenger)
 
-- [VPN Windows]
+- VPN Windows:
     ```
     ftp://ncov_pf:Perfectcorp@ftp.gocyberlink.com/IT/VPN/Windows/PF%20Softether%20VPN%20Client%20install%20guide(Win).pdf
     ```
