@@ -35,12 +35,30 @@ YouCam Perfect iOS
     ssh://git@git.pft.com/source/ycp-ios.git
     ```
 
+- YouCam Perfect Android
+    ```
+    ssh://git@git.pft.com/source/ycp.git
+    ```
+    
 - FTP
     ```
     ftp://ncov_cl:Cyberlink@ftp.gocyberlink.com/
     ftp://ncov_pf:Perfectcorp@ftp.gocyberlink.com/
     ```
 
+- [U messenger](https://u.cyberlink.com/products/umessenger)
+
+
+- VPN Windows:
+    ```
+ftp://ncov_pf:Perfectcorp@ftp.gocyberlink.com/IT/VPN/Windows/PF%20Softether%20VPN%20Client%20install%20guide(Win).pdf
+    ```
+
+- VPN iOS: 
+
+    ```
+    ftp://ncov_pf:Perfectcorp@ftp.gocyberlink.com/IT/VPN/Mac%20OS%20X/How%20to%20configure%20VPN%20on%20Mac%20OS%20X%20(PF).pdf
+    ```
 
 
 ## Install VM on Windows 
