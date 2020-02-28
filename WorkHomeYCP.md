@@ -1,4 +1,22 @@
-# Working From Home Document 
+## Table of Contents  
+
+- [Overview](#overview)
+- [Software](#software)
+- [Git Repository](#git-repository)
+- [Install VM on Windows](#install-vm-on-windows)
+- [Install XCode and Git](#install-xcode-and-git)
+- [Import Project](#import-project)
+
+## Overview  
+
+- This document tells you how to set up VMWare, MacOS, XCode step by step and how to import projects on iOS.
+- If you can access VPN, you can download VM image from this path. This image already include VM and XCode. Jump to [Import Project](#import-project) directly.
+    ```
+    \\tommyc-dt3\ShareVM\Catalina_10_15_2_200GB_Dev
+    ```
+    > MacOS User: rdapp, password: 0000
+
+## Software
 
 YouCam Perfect iOS
 
@@ -33,28 +51,7 @@ YouCam Perfect iOS
     ftp://ncov_pf:Perfectcorp@ftp.gocyberlink.com/IT/VPN/Mac%20OS%20X/How%20to%20configure%20VPN%20on%20Mac%20OS%20X%20(PF).pdf
     ```
 
-## Table of Contents  
-
-- [Overview](#overview)
-- [Software and Git Repository](#software-and-git-repository)
-- [Install VM on Windows](#install-vm-on-windows)
-- [Install XCode and Git](#install-xcode-and-git)
-- [Import Project](#import-project)
-
-
-
-## Overview  
-
-- This document tells you how to set up VMWare, MacOS, XCode step by step and how to import projects on iOS.
-- If you can access VPN, you can download VM image from this path. This image already include VM and XCode. Jump to [Import Project](#import-project) directly.
-    ```
-    \\tommyc-dt3\ShareVM\Catalina_10_15_2_200GB_Dev
-    ```
-    > MacOS User: rdapp, password: 0000
-
-
-
-## Software and Git Repository
+## Git Repository
 
 - YouCam Perfect iOS
     ```
