@@ -5,12 +5,38 @@ YouCam Perfect iOS
 - http://pft-svn:8090/trac/androidbc/wiki/guide
 - http://pft-svn:8090/trac/youperfect/wiki/install_macos_on_windows
 
+- Antivirus
+  - Windows
+    ```
+    ftp://ncov_pf:Perfectcorp@ftp.gocyberlink.com/IT/Antivirus/Windows/WIN64BIT/
+    ```
+  - Mac OS 10.14 or earlier
+    - https://drive.google.com/file/d/1cgIhxK3fClYpZjefzz_c3qcnNdYtjoZ9/view?usp=sharing
+  - Mac OS 10.15 and later
+    - https://drive.google.com/file/d/1aawnNGQMjxn41mdItbaNuj5gVwTflise/view?usp=sharing 
+    
+- FTP
+    ```
+    ftp://ncov_cl:Cyberlink@ftp.gocyberlink.com/
+    ftp://ncov_pf:Perfectcorp@ftp.gocyberlink.com/
+    ```
 
+- [U messenger](https://u.cyberlink.com/products/umessenger)
+
+- VPN Windows:
+  - Windows
+    ```
+    ftp://ncov_pf:Perfectcorp@ftp.gocyberlink.com/IT/VPN/Windows/PF%20Softether%20VPN%20Client%20install%20guide(Win).pdf
+    ```
+  - iOS: 
+    ```
+    ftp://ncov_pf:Perfectcorp@ftp.gocyberlink.com/IT/VPN/Mac%20OS%20X/How%20to%20configure%20VPN%20on%20Mac%20OS%20X%20(PF).pdf
+    ```
 
 ## Table of Contents  
 
 - [Overview](#overview)
-- [Git Repository](#git-repository)
+- [Software and Git Repository](#software-and-git-repository)
 - [Install VM on Windows](#install-vm-on-windows)
 - [Install XCode and Git](#install-xcode-and-git)
 - [Import Project](#import-project)
@@ -28,7 +54,7 @@ YouCam Perfect iOS
 
 
 
-## Git Repository
+## Software and Git Repository
 
 - YouCam Perfect iOS
     ```
@@ -38,24 +64,6 @@ YouCam Perfect iOS
 - YouCam Perfect Android
     ```
     ssh://git@git.pft.com/source/ycp.git
-    ```
-    
-- FTP
-    ```
-    ftp://ncov_cl:Cyberlink@ftp.gocyberlink.com/
-    ftp://ncov_pf:Perfectcorp@ftp.gocyberlink.com/
-    ```
-
-- [U messenger](https://u.cyberlink.com/products/umessenger)
-
-- VPN Windows:
-    ```
-    ftp://ncov_pf:Perfectcorp@ftp.gocyberlink.com/IT/VPN/Windows/PF%20Softether%20VPN%20Client%20install%20guide(Win).pdf
-    ```
-
-- VPN iOS: 
-    ```
-    ftp://ncov_pf:Perfectcorp@ftp.gocyberlink.com/IT/VPN/Mac%20OS%20X/How%20to%20configure%20VPN%20on%20Mac%20OS%20X%20(PF).pdf
     ```
 
 ## Install VM on Windows 
