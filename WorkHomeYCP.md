@@ -12,7 +12,7 @@
 - This document tells you how to set up VMWare, MacOS, XCode step by step and how to import projects on iOS.
 - If you can access VPN, you can download VM image from this path. This image already include VM and XCode. Jump to [Import Project](#import-project) directly.
     ```
-    \\tommyc-dt3\ShareVM\Catalina_10_15_2_200GB_Dev
+    \\tommyc-dt3\ShareVM\Catalina_10_15_2_200GB_Dev_Small
     ```
     > MacOS User: rdapp, password: 0000
 
